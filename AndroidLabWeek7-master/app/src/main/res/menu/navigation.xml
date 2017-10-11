@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_storage"
+        android:icon="@drawable/ic_sd_storage_black_24dp"
+        android:title="Read/Write Storage" />
+
+    <item
+        android:id="@+id/navigation_sqlite"
+        android:icon="@drawable/ic_storage_black_24dp"
+        android:title="Sqlite DB" />
+
+    <item
+        android:id="@+id/navigation_webserver"
+        android:icon="@drawable/ic_cloud_black_24dp"
+        android:title="WebServer Conn" />
+
+</menu>
